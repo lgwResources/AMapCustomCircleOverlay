@@ -9,6 +9,7 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 
+<<<<<<< HEAD
 ### Xcode Patch ###
 *.xcodeproj/*
 !*.xcodeproj/project.pbxproj
@@ -17,6 +18,8 @@ xcuserdata/
 !*.xcworkspace/contents.xcworkspacedata
 /*.gcno
 
+=======
+>>>>>>> 4359848fb2c708deda4b1f5cfc22c046bd833bee
 ## compatibility with Xcode 3 and earlier (ignoring not required starting Xcode 4)
 build/
 DerivedData/
@@ -44,9 +47,13 @@ DerivedData/
 # you should judge for yourself, the pros and cons are mentioned at:
 # https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
 #
+<<<<<<< HEAD
 Pods/
 Podfile.lock
 .DS_Store
+=======
+# Pods/
+>>>>>>> 4359848fb2c708deda4b1f5cfc22c046bd833bee
 #
 # Add this line if you want to avoid checking in source code from the Xcode workspace
 # *.xcworkspace
