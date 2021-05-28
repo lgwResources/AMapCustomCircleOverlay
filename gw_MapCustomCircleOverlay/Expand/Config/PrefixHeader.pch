@@ -1,0 +1,16 @@
+//
+//  PrefixHeader.pch
+//  CarUtopia
+//
+//  Created by 刘功武 on 2020/9/30.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ThirdLibs.h"
+#import "LocalConfig.h"
+#import "ObjectSingleton.h"
+
+
+#endif /* PrefixHeader_pch */
